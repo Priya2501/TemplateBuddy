@@ -7,7 +7,7 @@ The data once fed by the user is saved in his account and the user can just chan
 
 # Hacktoberfest 2020
 
-Hacktoberfest 2020 is here. Contributions are now welcome. Please go through [CONTRIBUTING.md](./CONTRIBUTING.md) and the instructions in readme [Contribute](#contribute). We look forward for your contributions.
+Hacktoberfest 2020 is here. Contributions are now welcome. Please go through [CONTRIBUTING.md](./CONTRIBUTING.md) and the instructions in readme [Contribute](#contribute). We are looking forward to your contributions.
 
 ## Steps to install
 
@@ -48,7 +48,7 @@ user@programmer~:$ python setup.py
 
 5) Open localhost:5000 in any browser.
 
-- For steps 2 - 5make sure you are inside TemplateBuddy directory.
+- For steps 2 - 5, make sure you are inside TemplateBuddy directory.
 
 ## Contributing
 <span id="contribute"></span>
@@ -58,13 +58,13 @@ The following resources are a good place to get to know more about TemplateBuddy
 
 ### Instructions for first time contributors/ beginner level contributors for template related issues (both HTML and LATEX) during HACKTOBERFEST
 
-- Start working on the issues once you are assigned to them. Head over to the issue and comment that you want it to be assigned to you. Once the maintainer assigns the issue to you, start working on it. Issues will be assigned on a First Come First Serve (FCFS) basis.
+- Start working on the issues once they are assigned to you. Head over to the issue and comment that you want it to be assigned to you. Once the maintainer assigns the issue to you, start working on it. Issues will be assigned on a First Come First Serve (FCFS) basis.
 - Once the issue is assigned, you have one week (7 Days) to submit the PR. Failing to do so will get the issue reassigned to someone else. As each issue related to questions are being assigned to single contributor at a time, we sincerely hope that you cooperate with us.
 - If you create a PR without the issue being assigned to you, the PR will be marked spam as you are not adhering to the rules.   
 - For the template related files:
 	- if it is a HTML template, name the files as template<template_number>.html and template<template_number>.css and put them in the respective folders in TemplateBuddy/static/resume_templates i.e. html and css folder. Eg. template2.html and template2.css   
 	- if it is a LaTeX template, put the source files in a folder named as template<template_number> and put that folder in the location TemplateBuddy/static/resume_templates/tex as a zip file. Eg. template2.zip
-- If the files are not named in the above mentioned format, a comemnt would be added by the maintainers as a warning and if it is not changed in the next PR, the PR would be marked spam for not adhering to the rules.
+- If the files are not named in the above mentioned format, a comment would be added by the maintainers as a warning and if it is not changed in the next PR, the PR would be marked spam for not adhering to the rules.
 
 
 Before moving further please go through the rules in [CONTRIBUTING.md](./CONTRIBUTING.md)  
